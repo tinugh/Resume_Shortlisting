@@ -1,16 +1,9 @@
 
 
-# Resume Shortlisting Project
+## Resume Shortlisting Project
 
 This is a Python-based project that aims to automate the process of shortlisting resumes for various job roles based on predefined keywords. The project uses Optical Character Recognition (OCR) to extract text from resume images, matches keywords with the extracted text, and classifies resumes into different job categories.
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
