@@ -45,7 +45,7 @@ You also need access to a MySQL database where you can store the shortlisted res
    ```python
    conn = mysql.connector.connect(
        host="localhost",
-       database="project",
+       database="database_name",
        user="root",
        password="YourPasswordHere")
    ```
