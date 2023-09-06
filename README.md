@@ -1,7 +1,8 @@
-![Screenshot from 2023-09-06 11-50-29](https://github.com/tinugh/Resume_Shortlisting/assets/132256255/0546a504-eb25-4249-91ba-d3d8f44c48eb)
+
+![Screenshot from 2023-09-06 11-54-33](https://github.com/tinugh/Resume_Shortlisting/assets/132256255/47b7dbd4-0efc-4f4f-9eb5-ff7a3ea90962)
 
 
-### Resume Shortlisting Project
+# Resume Shortlisting Project
 
 This is a Python-based project that aims to automate the process of shortlisting resumes for various job roles based on predefined keywords. The project uses Optical Character Recognition (OCR) to extract text from resume images, matches keywords with the extracted text, and classifies resumes into different job categories.
 
