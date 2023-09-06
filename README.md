@@ -1,3 +1,4 @@
+![Screenshot from 2023-09-06 11-50-29](https://github.com/tinugh/Resume_Shortlisting/assets/132256255/0546a504-eb25-4249-91ba-d3d8f44c48eb)
 
 
 ### Resume Shortlisting Project
